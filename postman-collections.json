@@ -30,10 +30,7 @@
         "url": {
           "raw": "http://hello-kubernetes-service.default",
           "protocol": "http",
-          "host": [
-            "hello-kubernetes-service",
-            "default"
-          ]
+          "host": ["hello-kubernetes-service", "default"]
         }
       },
       "response": []
